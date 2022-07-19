@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/trigun117/TelegramBot-Go/docker-compose/bot/code/wiki"
+	"github.com/rawello/wikitggo-bot/docker-compose/bot/code/wiki"
 )
 
 func telegramBot() {
